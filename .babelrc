@@ -1,0 +1,1 @@
+{  "presets": [    "latest",    "react",    "stage-0"  ],  "plugins": [    "transform-decorators-legacy"  ],  "env": {    "development": {      "plugins": [        "transform-react-jsx-source",        "syntax-flow",        "tcomb",        "transform-flow-strip-types"      ]    }  }}
