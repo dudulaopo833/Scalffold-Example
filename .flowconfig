@@ -1,0 +1,3 @@
+[ignore].*/__tests__/.*.*/node_modules/.*[include]
+[libs]
+[options]module.file_ext=.jsmodule.file_ext=.jsonmodule.file_ext=.jsxmodule.file_ext=.cssmodule.file_ext=.scss
